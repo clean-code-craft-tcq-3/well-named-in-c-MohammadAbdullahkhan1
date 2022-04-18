@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "Color.h"
+#include "col.h"
 
 const int MAX_COLORPAIR_NAME_CHARS = 16;
 const char* MajorColorNames[] = { "White", "Red", "Black", "Yellow", "Violet" };
